@@ -2,3 +2,36 @@
 h1 {
     color: red;
 }
+body {
+    background-color: lightgray;
+}
+p {
+    font-size: 30px;
+}
+h2 {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+img {
+    border: 2px solid black;
+}
+.resaltar {
+    color: green; /* Hace el texto verde */
+}
+p {
+    background-color: lightblue;
+}
+div {
+    margin: 30px;
+}
+table {
+    padding: 10px;
+}
+img {
+    width: 200px;
+}
+#titulo-grande {
+    font-size: 30px;
+}
